@@ -1,0 +1,313 @@
+body {
+    line-height: 1.7;
+    color: #666666;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+	background-color: #fff;}
+
+h4{margin-top: -50px;
+    /* margin-right: 116px; */
+    text-align: center;
+}
+
+
+.topbar{
+    background-color: #316dc3;
+    padding: 5px;
+	    margin: -8px;
+}
+
+i{
+    padding: 10px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+.para1{
+    text-align: center;
+    position: absolute;
+    top: -7px;
+    right:450px;
+    color: white;
+}
+    .Donor{
+    position: absolute;
+    top: 10px;
+     right: 80px;
+    }
+
+    .UK{
+        background-color: gainsboro;
+        color: black;
+        width: auto;
+        padding: 5px 10px;
+        /* text-align: center;  */
+        font-size: 13px;
+    }
+
+.header{
+    background-color: #f7f8fa ;
+    padding: 9px;
+    height: 53px;
+    margin: 8px;
+    margin-left: -9px;
+    margin-right: -8px;
+}
+
+    .img{
+        vertical-align: middle;
+        margin-top: 0px;
+        position: absolute;
+        left: 60px;
+    }
+
+    .menu ul li {
+      
+       display: inline-block;
+       width: auto;
+       text-align: center;
+      white-space: normal;
+		font-family:  'Open Sans', sans-serif;
+		font-weight:bold;
+    }
+    .slider{
+       margin-left: 83px;
+    margin-right: 83px;
+    background-color: #316DC3;
+    color: white;
+    margin-top: 12px;
+    height:38px;
+    text-align: center;
+		
+    }
+.container2{
+
+        margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -105px;
+		background-color: #f7f8fa;
+		padding-bottom: 37px;
+}
+
+.container1{
+        margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -199px;
+		background-color: #f7f8fa;
+		padding-bottom: 37px;
+}
+
+.wht{
+	
+	margin: 50px;
+}
+
+
+.cont{
+	
+	margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -163px;
+    padding-bottom: 148px;
+	
+}
+
+
+
+    .intro{
+        text-align: center;
+       font-size: 18px;
+    }
+
+    .IntroAbout{
+        background-color: #f7f8fa;
+    color: black;
+    text-align: justify;
+    visibility: visible;
+    margin: 165px;
+    margin-top: -75px;
+}
+    
+    .Workprocess {
+           background-color: blue;
+    padding-bottom: 118px;
+    }
+
+.into7{
+	
+	padding: 50px;
+	
+	
+	
+}
+
+.img34{
+	
+	margin-top: -78px;
+}
+
+
+
+    .SaylaniImages{
+      text-transform: uppercase;
+    display: inline-block;
+    color: white;
+    margin: 69px;
+    padding: 10px auto;
+    height: 65px;
+} 
+    
+
+    .AboutSaylani{
+        /* background-color: #f7f8fa; */
+        text-align: center;
+        height: 10px;
+        margin: 50px;
+        text-transform: uppercase;
+    }
+    .OnlineInfo{
+        width: auto;
+    padding: 179px 139px;
+    display: inline-block;
+    margin-top: 8px;
+        
+}
+			
+		h4{
+			
+			
+		}		
+			
+    
+.OnlineInfo1{
+        width: auto;
+    padding: 0px 139px;
+    display: inline-block;
+    margin-top: -154px;
+}
+        
+			
+			
+			
+    
+
+
+.p-30 {
+    padding: 30px !important;
+	
+}
+
+
+.box-shadow11 {
+    -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+	
+}
+.mb-30 {
+	margin-bottom: 30px !important;}
+.bg-white {
+	background-color: #fff !important;}
+.text-center {
+    text-align: center;
+}
+
+
+li:visited{
+	
+	background-color: #316dc3;;
+}
+
+li:focus{
+	background-color: #316dc3;;
+	
+}
+
+
+li:checked{
+	
+	background-color: #316dc3;;
+}
+li:focus{
+	
+	background-color: #316dc3;;
+}
+li:active a{
+	background-color: blue;
+}
+
+li:hover a{
+	
+	color: blue;
+	background-color: blue
+}
+
+.hepa{
+	
+	display: inline-block;
+	text-align: left;
+    
+}
+	
+	
+
+.welfareproject{
+    display: inline-block;
+        font-size: 16px;
+      background-color: #f7f8fa !important;
+     padding-left: 51px;
+    margin-top: -28px;
+    padding-bottom: 27px;
+    color: blue;
+    font-size: large;
+}
+
+.upevent{
+    
+    margin-left: 918px;
+	margin-top: -365px;}
+
+/* .imageGallery{
+    width: 200px;
+} */
+.contactinfo{
+    color: #bbb;
+    background-color: #25272e;
+    margin: -17px;
+    padding: 32px;
+	padding-bottom: 263px
+		
+}
+
+.main{
+	
+	padding-left: 133px;
+    margin: 56px;
+	margin-left: -30px;
+}
+footer{
+	background-color: #316DD9 !important;
+    padding-bottom: 1px !important;
+    padding-top: 11px !important;
+    margin-top: 16px;
+    margin-left: -8px;
+    margin-right: -11px;
+}
+
+.scrollToTop{
+	
+	
+	background: rgba(0, 0, 0, 0.1);
+    bottom: 15px;
+    display: none;
+    height: 50px;
+    padding: 2px;
+    position: fixed;
+    right: 15px;
+    text-align: center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 99999;
+}
